@@ -1,0 +1,8 @@
+# Runtime data and build output, in case install.mjs is run from a clone
+# placed at ~/.claude/context-meter.
+sessions/
+limits.json
+config.json
+*.tmp
+ContextMeter.app/
+.DS_Store
